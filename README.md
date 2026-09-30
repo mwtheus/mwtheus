@@ -1,3 +1,5 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMERO)
 [![Yrkit](https://img.shields.io/badge/yrkit.com-A8FF00?style=for-the-badge&logo=googlechrome&logoColor=060609&labelColor=060609)](https://yrkit.com)
 [![npm](https://img.shields.io/badge/@yr--lang/yr-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@yr-lang/yr)
 [![X](https://img.shields.io/badge/@YrkitApp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YrkitApp)
@@ -47,8 +49,16 @@ Editor, terminal, SSH, CI/CD, banco de dados e copiloto de IA numa aba só. Dá 
 
 Roda sozinha, pelo terminal (CLI) ou via CDN, sem depender da Yrkit. A Yrkit é a IDE oficial da linguagem.
 
+### module
+
 ```bash
 npm i @yr-lang/yr
+```
+
+### cli
+
+```bash
+npm i -g @yr-lang/yr-cli
 ```
 
 ---
@@ -91,23 +101,10 @@ npm i @yr-lang/yr
 
 ## 📈 Atividade de Desenvolvimento
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwtheus&theme=tokyo-night&bg_color=0d1117&hide_border=true&line=A8FF00&point=A8FF00&area_color=A8FF00&area=true&hide_title=true)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwtheus&theme=tokyo-night&bg_color=0d1117&hide_border=true)
 
 ---
 
 ## 🏆 Contribuições
 
-![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwtheus&theme=tokyonight&hide_border=true)
-
----
-
-## 🤝 Vamos nos conectar!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMERO)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YrkitApp)
-[![Yrkit](https://img.shields.io/badge/Yrkit-A8FF00?style=for-the-badge&labelColor=060609)](https://yrkit.com)
-
-![profile views](https://komarev.com/ghpvc/?username=mwtheus&color=A8FF00&style=for-the-badge&label=PROFILE+VIEWS)
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:A8FF00,100:060609&height=100&section=footer)
+![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwtheus&theme=tokyonight)
