@@ -72,8 +72,9 @@ npm i -g @yr-lang/yr-cli
 
 ### Organização yr-lang
 
-![yr-lang commits](https://github-readme-stats.vercel.app/api?username=yr-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=prs,issues,stars)
+
 ![yr-lang langs](https://github-readme-stats.vercel.app/api/top-langs?username=yr-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6)
+![yr-lang streak](https://streak-stats.demolab.com/?user=yr-lang&mode=monthly&theme=tokyonight&hide_border=true&background=0d1117)
 
 ---
 
@@ -100,4 +101,4 @@ npm i -g @yr-lang/yr-cli
 
 ### Linguagem própria
 
-![Yr](https://img.shields.io/badge/Yr-A8FF00?style=for-the-badge&labelColor=060609)
+![Yr](https://avatars.githubusercontent.com/u/245750147?s=400&u=daa7638b7acc30a031303e6954aba8bc2eaa3d4a&v=4)
