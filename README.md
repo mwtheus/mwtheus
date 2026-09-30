@@ -1,6 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55SEUNUMERO)
-[![Yrkit](https://img.shields.io/badge/yrkit.com-A8FF00?style=for-the-badge&logo=googlechrome&logoColor=060609&labelColor=060609)](https://yrkit.com)
+[![Yrkit](https://img.shields.io/badge/yrkit.site-A8FF00?style=for-the-badge&logo=googlechrome&logoColor=060609&labelColor=060609)](https://yrkit.com)
 [![npm](https://img.shields.io/badge/@yr--lang/yr-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@yr-lang/yr)
 [![X](https://img.shields.io/badge/@YrkitApp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YrkitApp)
 
@@ -12,7 +11,7 @@
 
 📍 Brasil · 🎓 Ciência da Computação na UNIFAP
 
-Creator of Yrkit · Founder of [yr-lang](https://github.com/yr-lang)
+Creator of [Yrkit](https://yrkit.site) · Founder of [yr-lang](https://github.com/yr-lang)
 
 ---
 
@@ -29,7 +28,7 @@ Faço ferramentas pra quem faz software. Sou o criador da **Yrkit**, uma IDE na 
 
 ## 🟢 Yrkit
 
-[**yrkit.com**](https://yrkit.com): fale com a IA e crie seu sistema.
+[**yrkit.site**](https://yrkit.site): fale com a IA e crie seu sistema.
 
 Editor, terminal, SSH, CI/CD, banco de dados e copiloto de IA numa aba só. Dá pra programar direto do celular.
 
@@ -83,7 +82,7 @@ npm i -g @yr-lang/yr-cli
 
 ![linguagem](https://img.shields.io/github/languages/top/yr-lang/yr-cli?style=for-the-badge)
 ![stars](https://img.shields.io/github/stars/yr-lang/yr-cli?style=for-the-badge&logo=github)
-![npm](https://img.shields.io/npm/v/%40yr-lang%2Fyr?style=for-the-badge&logo=npm&label=%40yr-lang%2Fyr-cli)
+![npm](https://img.shields.io/npm/v/%40yr-lang%2Fyr-cli?style=for-the-badge&logo=npm&label=%40yr-lang%2Fyr-cli)
 ![downloads total](https://img.shields.io/npm/dt/%40yr-lang%2Fyr-cli?style=for-the-badge&logo=npm&label=total)
 
 ---
