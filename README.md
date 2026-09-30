@@ -72,9 +72,10 @@ npm i -g @yr-lang/yr-cli
 
 ### Organização yr-lang
 
-
-![yr-lang langs](https://github-readme-stats.vercel.app/api/top-langs?username=yr-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6)
-![yr-lang streak](https://streak-stats.demolab.com/?user=yr-lang&mode=monthly&theme=tokyonight&hide_border=true&background=0d1117)
+[![yr-lang](https://github-readme-stats.vercel.app/api/pin/?username=yr-lang&repo=yr&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/yr-lang/yr)
+![yr](https://img.shields.io/npm/v/%40yr-lang%2Fyr?style=for-the-badge&logo=npm&label=%40yr-lang%2Fyr)
+![downloads](https://img.shields.io/npm/dm/%40yr-lang%2Fyr?style=for-the-badge&logo=npm&label=downloads%2Fm%C3%AAs)
+![yr-cli](https://img.shields.io/npm/v/%40yr-lang%2Fyr-cli?style=for-the-badge&logo=npm&label=%40yr-lang%2Fyr-cli)
 
 ---
 
