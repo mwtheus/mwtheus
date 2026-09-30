@@ -72,23 +72,19 @@ npm i -g @yr-lang/yr-cli
 
 ### Organização yr-lang
 
-![stars](https://img.shields.io/github/stars/yr-lang/yr?style=for-the-badge&logo=github)
-
-![forks](https://img.shields.io/github/forks/yr-lang/yr?style=for-the-badge&logo=github)
-
-![commits/mês](https://img.shields.io/github/commit-activity/m/yr-lang/yr?style=for-the-badge&logo=github&label=commits%2Fm%C3%AAs)
-
-![último commit](https://img.shields.io/github/last-commit/yr-lang/yr?style=for-the-badge&logo=github]
+#### yr
 
 ![linguagem](https://img.shields.io/github/languages/top/yr-lang/yr?style=for-the-badge)
-
+![stars](https://img.shields.io/github/stars/yr-lang/yr?style=for-the-badge&logo=github)
 ![npm](https://img.shields.io/npm/v/%40yr-lang%2Fyr?style=for-the-badge&logo=npm&label=%40yr-lang%2Fyr)
-
-![downloads/mês](https://img.shields.io/npm/dm/%40yr-lang%2Fyr?style=for-the-badge&logo=npm&label=downloads%2Fm%C3%AAs)
-
 ![downloads total](https://img.shields.io/npm/dt/%40yr-lang%2Fyr?style=for-the-badge&logo=npm&label=total)
 
-![star history](https://api.star-history.com/svg?repos=yr-lang/yr&type=Date&theme=dark)
+#### yr-cli
+
+![linguagem](https://img.shields.io/github/languages/top/yr-lang/yr-cli?style=for-the-badge)
+![stars](https://img.shields.io/github/stars/yr-lang/yr-cli?style=for-the-badge&logo=github)
+![npm](https://img.shields.io/npm/v/%40yr-lang%2Fyr?style=for-the-badge&logo=npm&label=%40yr-lang%2Fyr-cli)
+![downloads total](https://img.shields.io/npm/dt/%40yr-lang%2Fyr-cli?style=for-the-badge&logo=npm&label=total)
 
 ---
 
