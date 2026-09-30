@@ -101,7 +101,7 @@ npm i -g @yr-lang/yr-cli
 
 ## 📈 Atividade de Desenvolvimento
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mwtheus&theme=tokyo-night&bg_color=0d1117&hide_border=true)
+![activity graph](https://ghchart.rshah.org/A8FF00/mwtheus)
 
 ---
 
