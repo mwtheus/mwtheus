@@ -74,6 +74,7 @@ npm i -g @yr-lang/yr-cli
 #### yr
 
 ![linguagem](https://img.shields.io/github/languages/top/yr-lang/yr?style=for-the-badge)
+![linguagem](https://img.shields.io/github/languages/count/yr-lang/yr?style=for-the-badge)
 ![stars](https://img.shields.io/github/stars/yr-lang/yr?style=for-the-badge&logo=github)
 ![npm](https://img.shields.io/npm/v/%40yr-lang%2Fyr?style=for-the-badge&logo=npm&label=%40yr-lang%2Fyr)
 ![downloads total](https://img.shields.io/npm/dt/%40yr-lang%2Fyr?style=for-the-badge&logo=npm&label=total)
@@ -81,6 +82,7 @@ npm i -g @yr-lang/yr-cli
 #### yr-cli
 
 ![linguagem](https://img.shields.io/github/languages/top/yr-lang/yr-cli?style=for-the-badge)
+![linguagem](https://img.shields.io/github/languages/count/yr-lang/yr-cli?style=for-the-badge)
 ![stars](https://img.shields.io/github/stars/yr-lang/yr-cli?style=for-the-badge&logo=github)
 ![npm](https://img.shields.io/npm/v/%40yr-lang%2Fyr-cli?style=for-the-badge&logo=npm&label=%40yr-lang%2Fyr-cli)
 ![downloads total](https://img.shields.io/npm/dt/%40yr-lang%2Fyr-cli?style=for-the-badge&logo=npm&label=total)
