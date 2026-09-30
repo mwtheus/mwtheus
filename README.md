@@ -12,7 +12,7 @@
 
 📍 Brasil · 🎓 Ciência da Computação na UNIFAP
 
-Creator of Yrkit · Founder of yr-lang
+Creator of Yrkit · Founder of [yr-lang](https://github.com/yr-lang)
 
 ---
 
@@ -49,6 +49,8 @@ Editor, terminal, SSH, CI/CD, banco de dados e copiloto de IA numa aba só. Dá 
 
 Roda sozinha, pelo terminal (CLI) ou via CDN, sem depender da Yrkit. A Yrkit é a IDE oficial da linguagem.
 
+Projetos e código na org [**yr-lang**](https://github.com/yr-lang) no GitHub.
+
 ### module
 
 ```bash
@@ -65,10 +67,13 @@ npm i -g @yr-lang/yr-cli
 
 ## 📊 Estatísticas GitHub
 
-![stats](https://github-readme-stats.vercel.app/api?username=mwtheus&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs?username=mwtheus&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6)
-
 ![streak](https://streak-stats.demolab.com/?user=mwtheus&mode=monthly&theme=tokyonight&hide_border=true&background=0d1117)
+
+### Organização yr-lang
+
+![yr-lang commits](https://github-readme-stats.vercel.app/api?username=yr-lang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide=prs,issues,stars)
+![yr-lang langs](https://github-readme-stats.vercel.app/api/top-langs?username=yr-lang&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6)
 
 ---
 
@@ -96,9 +101,3 @@ npm i -g @yr-lang/yr-cli
 ### Linguagem própria
 
 ![Yr](https://img.shields.io/badge/Yr-A8FF00?style=for-the-badge&labelColor=060609)
-
----
-
-## 🏆 Contribuições
-
-![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwtheus&theme=tokyonight)
