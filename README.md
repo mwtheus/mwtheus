@@ -99,12 +99,6 @@ npm i -g @yr-lang/yr-cli
 
 ---
 
-## 📈 Atividade de Desenvolvimento
-
-![activity graph](https://ghchart.rshah.org/A8FF00/mwtheus)
-
----
-
 ## 🏆 Contribuições
 
 ![profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mwtheus&theme=tokyonight)
