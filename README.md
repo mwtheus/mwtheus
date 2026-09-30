@@ -38,7 +38,7 @@ Editor, terminal, SSH, CI/CD, banco de dados e copiloto de IA numa aba só. Dá 
 | ☁️ **Cloud** | Hospedagem, deploy e créditos de IA |
 | 📱 **Code from phone** | Do navegador do celular |
 
-[![Conhecer a Yrkit](https://img.shields.io/badge/Conhecer%20a%20Yrkit-A8FF00?style=for-the-badge&labelColor=060609)](https://yrkit.com)
+[![Conhecer a Yrkit](https://img.shields.io/badge/Conhecer%20a%20Yrkit-A8FF00?style=for-the-badge&labelColor=060609)](https://yrkit.site)
 
 ---
 
