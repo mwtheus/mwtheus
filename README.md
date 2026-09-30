@@ -1,7 +1,3 @@
-![Matheus](https://capsule-render.vercel.app/api?type=waving&color=0:060609,100:A8FF00&height=180&section=header&text=Matheus&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=DevTools%20Engineer%20%7C%20Founder%20of%20Yrkit%20%7C%20Creator%20of%20yr-lang&descColor=ffffff&descSize=16&descAlignY=60)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=A8FF00&width=560&lines=Fale+com+a+IA+e+crie+seu+sistema;IDE+na+nuvem+%2B+linguagem+Yr;Programando+desde+2018;Node.js+%C2%B7+Electron+%C2%B7+Bash+%C2%B7+Yr)](https://yrkit.com)
-
 [![Yrkit](https://img.shields.io/badge/yrkit.com-A8FF00?style=for-the-badge&logo=googlechrome&logoColor=060609&labelColor=060609)](https://yrkit.com)
 [![npm](https://img.shields.io/badge/@yr--lang/yr-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@yr-lang/yr)
 [![X](https://img.shields.io/badge/@YrkitApp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YrkitApp)
@@ -10,9 +6,11 @@
 
 ## 👋 Olá! Eu sou o Matheus
 
-### 🚀 DevTools Engineer & Full-Stack Developer
+### 🚀 Platform Engineer & Full-Stack Developer
 
 📍 Brasil · 🎓 Ciência da Computação na UNIFAP
+
+Creator of Yrkit · Founder of yr-lang
 
 ---
 
