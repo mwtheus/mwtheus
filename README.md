@@ -108,7 +108,7 @@ npm i -g @yr-lang/yr-cli
 
 ### DevOps & Systems
 
-![devops](https://skillicons.dev/icons?i=bash,powershell,linux,docker,git,github)
+![devops](https://skillicons.dev/icons?i=bash,python,powershell,linux,docker,git,github)
 
 ### Own Language
 
