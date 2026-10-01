@@ -2,6 +2,7 @@
 [![Yrkit](https://img.shields.io/badge/yrkit.site-A8FF00?style=for-the-badge&logo=googlechrome&logoColor=060609&labelColor=060609)](https://yrkit.com)
 [![npm](https://img.shields.io/badge/@yr--lang/yr-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@yr-lang/yr)
 [![X](https://img.shields.io/badge/@YrkitApp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YrkitApp)
+[![yr-lang](https://img.shields.io/badge/yrlang.org-44FF55?style=for-the-badge&logo=googlechrome&logoColor=060609&labelColor=060609)]
 
 ---
 
@@ -17,7 +18,7 @@ Creator of [Yrkit](https://yrkit.site) · Founder of [yr-lang](https://github.co
 
 ## 💫 About me
 
-I build tools for people who build software. I'm the creator of **Yrkit**, a cloud IDE, and **Yr**, the language that runs underneath it. I've been coding since 2018 and, outside the product, I take on freelance projects: websites, APIs, scraping bots, Telegram bots, and custom systems.
+I build tools for people who build software. I'm the creator of **Yrkit**, a cloud IDE, and **Yr**, the language that runs underneath it. I've been coding since 2018: platforms, websites, APIs, scraping bots, Telegram bots, and custom systems.
 
 - 🔭 Currently working on **Yrkit** and **Yr**
 - 🏆 3rd place at the MPAP hackathon (2018)
