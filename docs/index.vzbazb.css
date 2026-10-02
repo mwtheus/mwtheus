@@ -294,9 +294,7 @@ main {
   color: var(--text);
 }
 .about a {
-  color: var(--accent-2);
-  text-decoration: underline;
-  text-underline-offset: 3px;
+  color: var(--panel);
 }
 .skills {
   display: flex;
@@ -655,6 +653,7 @@ main {
   padding: 14px 16px;
   margin: 0 0 24px;
   overflow-x: auto;
+  display: grid;
 }
 .code-block code {
   background: none;
@@ -662,6 +661,8 @@ main {
   padding: 0;
   color: var(--accent-2);
   font-size: 0.85rem;
+  display: grid;
+  padding-left: 20px;
 }
 .section__subtitle {
   position: relative;
