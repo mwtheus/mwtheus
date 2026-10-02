@@ -293,8 +293,11 @@ main {
 .about strong {
   color: var(--text);
 }
-.about a {
+.about a.btn {
   color: var(--panel);
+}
+.about a {
+  color: var(--accent-2);
 }
 .skills {
   display: flex;
