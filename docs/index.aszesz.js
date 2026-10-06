@@ -1,5 +1,5 @@
-window['__id'] = "POnNGSoErq7GLkj";
-window['__api'] = "http://localhost:27585";
+window['__id'] = "PyjY72Go0nYBO4U";
+window['__api'] = "http://localhost:24807";
 // ---------- i18n: dicionário EN / PT ----------
 const I18N = {
   en: {
