@@ -113,4 +113,4 @@ npm i -g @yr-lang/yr-cli
 
 ### Own Language
 
-![Yr](https://avatars.githubusercontent.com/u/245750147?s=400&u=daa7638b7acc30a031303e6954aba8bc2eaa3d4a&v=4)
+![Yr](https://yrkit.site/logo-transparent.png)
