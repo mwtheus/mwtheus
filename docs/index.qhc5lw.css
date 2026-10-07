@@ -757,3 +757,11 @@ main {
   height: 44px !important;
   border-radius: 50%;
 }
+.yrkit-gifs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.yrkit-shots__logo {
+  width: 30px;
+  max-width: 100%;
+}

@@ -12,7 +12,7 @@ cp -r www/ ../docs
 
 _title
   mwtheus@yrkit
-_link rel="icon" type="image/x-icon" href="https://yrkit.site/logo.png"
+_link rel="icon" href="https://yrkit.site/favicon.ico" sizes="any"
 _script src="https://cdn.yr-lang.org/yr.js"
 
 ><
@@ -39,7 +39,7 @@ _header .tabbar role="navigation" aria-label="Navegação principal" data-i18n-a
 _main
   _section #inicio .section.hero
     _ .hero__avatar
-      _img .hero__avatar-img src="/assets/static/mwtheus__mwtheus.png" alt="Foto de Matheus Araújo" data-i18n-alt="hero.avatarAlt" loading="lazy"
+      _img .hero__avatar-img src="https://avatars.githubusercontent.com/u/66290398" alt="Foto de Matheus Araújo" data-i18n-alt="hero.avatarAlt" loading="lazy"
     _p .line-comment data-i18n="file.inicio"
       inicio.html
     _h1 .hero__title
@@ -108,7 +108,7 @@ _main
     _h3 .section__subtitle data-i18n="stats.techstack"
     _h4 .stats-group data-i18n="stats.mainstack"
     _ .badge-row
-      _img .badge--avatar src="https://avatars.githubusercontent.com/u/245750147?s=400&u=daa7638b7acc30a031303e6954aba8bc2eaa3d4a&v=4" alt="Yr — linguagem principal" loading="lazy"
+      _img .badge--avatar src="https://yrkit.site/logo-transparent.png" alt="Yr — linguagem principal" loading="lazy"
       _img src="https://img.shields.io/badge/Yrkit-em%20produ%C3%A7%C3%A3o-0d1117?style=for-the-badge&labelColor=A8FF00" alt="Yrkit — em produção" loading="lazy"
     _h4 .stats-group
       Frontend
@@ -134,15 +134,16 @@ _main
     _h3 .section__subtitle data-i18n="projetos.list"
     _ #projects-grid .projects
     _h3 .section__subtitle
+      _img .yrkit-shots__logo src="https://yrkit.site/logo.gif" alt="Yrkit" loading="lazy"
       Yrkit
     _ .about
       _p data-i18n="projetos.yrkit.p1"
       _p data-i18n-html="projetos.yrkit.p2"
       _p data-i18n="projetos.yrkit.p3"
       _ .yrkit-shots
-        _img .yrkit-shots__logo src="https://yrkit.site/logo.png" alt="Yrkit" loading="lazy"
-        _img src="https://yrkit.site/preview.png" alt="Editor da Yrkit no desktop" loading="lazy"
-        _img src="https://yrkit.site/mobile.png" alt="Yrkit no celular" loading="lazy"
+        _ .yrkit-gifs
+          _img src="https://yrkit.site/yrkit-gif3.gif" alt="Editor da Yrkit no desktop" loading="lazy"
+          _img src="https://yrkit.site/yrkit-gif4.gif" alt="Yrkit no celular" loading="lazy"
       _table .stats-table
         _tr
           _td
@@ -979,6 +980,14 @@ main {
   height: 44px !important;
   border-radius: 50%;
 }
+.yrkit-gifs {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.yrkit-shots__logo {
+  width: 30px;
+  max-width: 100%;
+}
 
 @@
 
@@ -1164,13 +1173,24 @@ function setLang(lang) {
  */
 const PROJECTS = [
   {
+    title: "yr-lang",
+    title_en: "yr-lang",
+    period: "2021 — atualmente",
+    period_en: "2021 — present",
+    description: "yr é uma DSL (linguagem específica de domínio) que permite linguagens de programação coexistirem em um único arquivo - organizadas simples marcadores de seções. Sem sintaxe nova pra aprender. Apenas estrutura.",
+    description_en: "yr is a DSL (domain-specific language) that lets programmings languages coexist in a single file — organized by simple section markers. No new syntax to learn. Just structure.",
+    image: "/yr-lang.gif",
+    tags: ["Node.js", "IDE", "SaaS"],
+    link: "https://yr-lang.org"
+  },
+  {
     title: "Yrkit",
     title_en: "Yrkit",
     period: "2021 — atualmente",
     period_en: "2021 — present",
     description: "IDE em nuvem que venho construindo sozinho desde 2021, com linguagem própria (yr-lang) e sistema de billing integrado.",
     description_en: "Cloud IDE I've been building on my own since 2021, with its own language (yr-lang) and built-in billing.",
-    image: null,
+    image: "/yrkit.gif",
     tags: ["Node.js", "IDE", "SaaS"],
     link: "https://yrkit.site"
   },
@@ -1181,7 +1201,7 @@ const PROJECTS = [
     period_en: "completed in October 2026",
     description: "Gestão de arquivos e edição de PDFs: o sistema insere dados como assinatura, número, carimbo ou timbre sempre na mesma posição em todas as páginas do documento de uma só vez, em vez de editar página por página. Ideal para aplicar o mesmo rodapé, cabeçalho ou marca em documentos inteiros sem retrabalho.",
     description_en: "File management and PDF editing: the system inserts data such as a signature, number, stamp or header in the exact same position on every page of the document at once, instead of editing page by page. Ideal for applying the same footer, header or mark across whole documents with no rework.",
-    image: null,
+    image: "/pontualinfo.git",
     tags: ["Node.js", "PDF", "File management"],
     link: "https://pontualinfo.yrkit.site"
   }
