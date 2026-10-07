@@ -181,7 +181,7 @@ const PROJECTS = [
     period_en: "2021 — present",
     description: "yr é uma DSL (linguagem específica de domínio) que permite linguagens de programação coexistirem em um único arquivo - organizadas simples marcadores de seções. Sem sintaxe nova pra aprender. Apenas estrutura.",
     description_en: "yr is a DSL (domain-specific language) that lets programmings languages coexist in a single file — organized by simple section markers. No new syntax to learn. Just structure.",
-    image: "/yr-lang.gif",
+    image: "./yr-lang.gif",
     tags: ["Node.js", "IDE", "SaaS"],
     link: "https://yr-lang.org"
   },
@@ -192,7 +192,7 @@ const PROJECTS = [
     period_en: "2021 — present",
     description: "IDE em nuvem que venho construindo sozinho desde 2021, com linguagem própria (yr-lang) e sistema de billing integrado.",
     description_en: "Cloud IDE I've been building on my own since 2021, with its own language (yr-lang) and built-in billing.",
-    image: "/yrkit.gif",
+    image: "./yrkit.gif",
     tags: ["Node.js", "IDE", "SaaS"],
     link: "https://yrkit.site"
   },
@@ -203,7 +203,7 @@ const PROJECTS = [
     period_en: "completed in October 2026",
     description: "Gestão de arquivos e edição de PDFs: o sistema insere dados como assinatura, número, carimbo ou timbre sempre na mesma posição em todas as páginas do documento de uma só vez, em vez de editar página por página. Ideal para aplicar o mesmo rodapé, cabeçalho ou marca em documentos inteiros sem retrabalho.",
     description_en: "File management and PDF editing: the system inserts data such as a signature, number, stamp or header in the exact same position on every page of the document at once, instead of editing page by page. Ideal for applying the same footer, header or mark across whole documents with no rework.",
-    image: "/pontualinfo.git",
+    image: "./pontualinfo.gif",
     tags: ["Node.js", "PDF", "File management"],
     link: "https://pontualinfo.yrkit.site"
   }
