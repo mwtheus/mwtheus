@@ -2,7 +2,7 @@
 [![Yrkit](https://img.shields.io/badge/yrkit.site-A8FF00?style=for-the-badge&logo=googlechrome&logoColor=060609&labelColor=060609)](https://yrkit.com)
 [![npm](https://img.shields.io/badge/@yr--lang/yr-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/@yr-lang/yr)
 [![X](https://img.shields.io/badge/@YrkitApp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YrkitApp)
-[![yr-lang](https://img.shields.io/badge/yrlang.org-44FF55?style=for-the-badge&logo=googlechrome&logoColor=060609&labelColor=060609)
+[![yr-lang](https://img.shields.io/badge/yrlang.org-44FF55?style=for-the-badge&logo=googlechrome&logoColor=060609&labelColor=060609)](https://yr-lang.org)
 
 ---
 
